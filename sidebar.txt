@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sja:home|Door43 (sja)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sja|d43-sja repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sja/archive/master.zip|d43-sja.zip]]
+
+**Recent Changes**
+{{changes>ns = sja}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sja|Ethnologue data]]
+
